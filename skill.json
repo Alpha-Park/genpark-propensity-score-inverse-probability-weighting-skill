@@ -1,0 +1,15 @@
+{
+  "name": "genpark-propensity-score-inverse-probability-weighting-skill",
+  "version": "1.0.0",
+  "description": "Propensity score Inverse Probability Weighting (IPW) ATE estimator.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "propensity-score",
+    "ipw",
+    "average-treatment-effect",
+    "ate",
+    "agentic-ai"
+  ]
+}
